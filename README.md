@@ -2,7 +2,9 @@
 
 In this short tutorial I have used Zod for the data validations.
 
-## Please read my web blog for thorough understanding. [Click here](https://tiger-up.notion.site/Validations-With-Zod-aecbd1ccaa9f456c982bfad93878444b)
+## Please read my web blog for thorough understanding.
+
+link - https://tiger-up.notion.site/Validations-With-Zod-aecbd1ccaa9f456c982bfad93878444b
 
 - clone the repository using git clone https://github.com/Now-Tiger/zodExpress.git
 - install the packages
